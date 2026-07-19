@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 13, "column": 0}, "map": {"version":3,"sources":["file:///D:/myapp/src/app/favicon.ico.mjs%20%28structured%20image%20object%29"],"sourcesContent":["import src from \"IMAGE\";\nexport default { src, width: 256, height: 256 }\n"],"names":["src","width","height"],"mappings":";;;;AAAA;;uCACe;IAAEA,KAAAA,0IAAG;IAAEC,OAAO;IAAKC,QAAQ;AAAI"}},
-    {"offset": {"line": 28, "column": 0}, "map": {"version":3,"sources":["file:///D:/myapp/src/app/dashboard/page.tsx"],"sourcesContent":["export default function DashboardPage() {\n  return (\n    <section className=\"mx-auto max-w-5xl px-4 py-16 sm:px-6\">\n      <p className=\"font-mono text-xs uppercase tracking-wide text-accent\">\n        Dashboard\n      </p>\n      <h1 className=\"mt-3 font-display text-4xl font-semibold tracking-tight sm:text-5xl\">\n        Dashboard\n      </h1>\n      <p className=\"mt-4 max-w-xl text-muted\">\n        Routed placeholder — charts, summaries, and widgets land here.\n      </p>\n    </section>\n  );\n}\n"],"names":["DashboardPage","className"],"mappings":";;;;;;AAAe,SAASA;IACtB,qBACE,8OAAC;QAAQC,WAAU;;0BACjB,8OAAC;gBAAEA,WAAU;0BAAwD;;;;;;0BAGrE,8OAAC;gBAAGA,WAAU;0BAAsE;;;;;;0BAGpF,8OAAC;gBAAEA,WAAU;0BAA2B;;;;;;;;;;;;AAK9C"}}]
-}
